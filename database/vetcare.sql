@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS vetcare CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-USE vetcare;
+CREATE DATABASE IF NOT EXISTS vetcare_jaime CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+USE vetcare_jaime;
 
 DROP TABLE IF EXISTS consultas;
 DROP TABLE IF EXISTS animais;
